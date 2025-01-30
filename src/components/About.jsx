@@ -1,11 +1,11 @@
 const aboutItems = [
   {
     label: "Project done",
-    number: 45,
+    number: 15,
   },
   {
     label: "Years of experience",
-    number: 10,
+    number: 5,
   },
 ];
 
@@ -15,7 +15,7 @@ const About = () => {
       <div className="container">
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Welcome! I&apos;m Aiman, a professional web developer with a knack
+            Welcome! I&apos;m Bablu Sheikh, a professional web developer with a knack
             for crafting visually stunning and highly functional websites.
             Combining creativity and technical expertise. I transform your
             vision into digital masterpiece that excels in both appearance and

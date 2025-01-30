@@ -26,19 +26,19 @@ const sitemap = [
 const socials = [
   {
     label: "GitHub",
-    href: "https://www.github.com/aiman-shafi",
+    href: "https://www.github.com/tanayeb",
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/aimanshafi",
+    href: "#",
   },
   {
     label: "Twitter X",
-    href: "https://x.com/aimanshafi",
+    href: "https://x.com/Tanayeb067",
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/aimanshafi___",
+    href: "#",
   },
 ];
 
@@ -104,7 +104,7 @@ const Footer = () => {
           </a>
 
           <p className="text-zinc-500 text-sm reveal-up">
-            &copy; 2024 <span className="text-zinc-200">aimanshafi</span>
+            &copy; 2024 <span className="text-zinc-200">Bablu Sheikh</span>
           </p>
         </div>
       </div>

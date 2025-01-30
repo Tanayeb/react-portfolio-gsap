@@ -1,6 +1,6 @@
 const socialLinks = [
   {
-    href: "https://www.github.com/aiman-shafi",
+    href: "https://www.github.com/tanayeb",
     icon: (
       <svg
         width="24"
@@ -18,7 +18,7 @@ const socialLinks = [
     alt: "GitHub",
   },
   {
-    href: "https://www.linkedin.com/in/aimanshafi",
+    href: "#",
     icon: (
       <svg
         width="24"
@@ -36,7 +36,7 @@ const socialLinks = [
     alt: "LinkedIn",
   },
   {
-    href: "https://x.com/aimanshafi",
+    href: "https://x.com/Tanayeb067",
     icon: (
       <svg
         width="24"
@@ -54,7 +54,7 @@ const socialLinks = [
     alt: "Twitter X",
   },
   {
-    href: "https://www.instagram.com/aimanshafi___",
+    href: "#",
     icon: (
       <svg
         width="25"
@@ -102,7 +102,7 @@ const Contact = () => {
         </div>
 
         <form
-          action="https://getform.io/f/bwngmzya"
+          action="https://getform.io/f/agddknxb"
           method="POST"
           className="xl:pl-10 2xl:pl-20"
         >
@@ -118,7 +118,7 @@ const Contact = () => {
                 id="name"
                 autoComplete="name"
                 required
-                placeholder="Aiman"
+                placeholder="Bablu"
                 className="text-field reveal-up"
               />
             </div>
